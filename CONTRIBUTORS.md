@@ -65,6 +65,7 @@ create a pull request.
 | SAILESH VVR | [saileshvvr](https://github.com/saileshvvr) | HCL Technologies | N |
 | HO, TSUNG-HAN | [dalaoqi](https://github.com/dalaoqi) | iKala | N |
 | Ouastani, Samy | [Niahh](https://github.com/Niahh) | Free Mobile | N |
+| Domenico Verde | [DomenicoVerde](https://github.com/DomenicoVerde) | RomARS s.r.l. | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
