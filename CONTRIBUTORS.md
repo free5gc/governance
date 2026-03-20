@@ -29,6 +29,8 @@ create a pull request.
 | Chen, Tsung-Fang | [andy89923](https://github.com/andy89923) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Lin, Yang-Zhe | [lyz508](https://github.com/lyz508) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Feng Tu | [Alonza0314](https://github.com/Alonza0314) | National Yang Ming Chiao Tung University (NYCU) | Y |
+| Meng Han Hsieh | [c9274326](https://github.com/c9274326) | National Yang Ming Chiao Tung University (NYCU) | Y |
+| Yuan Chun Huang | [roundspring2003](https://github.com/roundspring2003) | National Yang Ming Chiao Tung University (NYCU) | Y |
 | Tim Liu | [tim-ywliu](https://github.com/tim-ywliu) | Saviah Technologies | Y |
 | Fu-Lian Weng | [turtle11311](https://github.com/turtle11311) | Saviah Technologies | Y |
 | Brian Chen | [brianchennn](https://github.com/brianchennn) | Saviah Technologies | Y |
@@ -60,6 +62,15 @@ create a pull request.
 | Ting, Fang-Kai | [qawl987](https://github.com/qawl987) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Lin, Cheng-Wei | [williamlin0518](https://github.com/williamlin0518) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Huang, Han-Xuan | [c1ydehhx](https://github.com/c1ydehhx) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Che Wei Lin | [Zach1113](https://github.com/Zach1113) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Kai Hung Hu | [carlhus](https://github.com/carlhus) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Chia Hui Chen | [chchen7](https://github.com/chchen7) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Chang Wei | [wiwi878](https://github.com/wiwi878) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Kuan Lin Chen | [DBGR18](https://github.com/DBGR18) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Warren Ng | [warren0813](https://github.com/warren0813) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Kai Xu Zhan | [KashZKX](https://github.com/KashZKX) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Chieh Cheng Kuo | [Jasonkuo23](https://github.com/Jasonkuo23) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Yu Chen Chan | [solar224](https://github.com/solar224) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
 | Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
