@@ -71,6 +71,7 @@ create a pull request.
 | Kai Xu Zhan | [KashZKX](https://github.com/KashZKX) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Chieh Cheng Kuo | [Jasonkuo23](https://github.com/Jasonkuo23) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Yu Chen Chan | [solar224](https://github.com/solar224) | National Yang Ming Chiao Tung University (NYCU) | N |
+| Su, Yin-Hsiang | [timsu92](https://github.com/timsu92) | National Yang Ming Chiao Tung University (NYCU) | N |
 | Laura Spang | [LaumiH](https://github.com/LaumiH) | TU Darmstadt | N |
 | Kunihiro Ishiguro | [kishiguro](https://github.com/kishiguro) | Hash-Set | N |
 | Leonardo Azalim de Oliveira | [oliveiraleo](https://github.com/oliveiraleo) | Federal University of Juiz de Fora (UFJF) | N |
