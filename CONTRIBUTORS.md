@@ -20,6 +20,7 @@ create a pull request.
 | Tim Liu | Saviah Technologies |
 | Fu-Lian Weng | Saviah Technologies |
 | Brian Chen | Saviah Technologies |
+| Feng Tu | Saviah Technologies |
 
 ## Contributors and committers
 
