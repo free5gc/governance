@@ -83,6 +83,7 @@ create a pull request.
 | S.Uchino | [utchy-su](https://github.com/utchy-su) | SORACOM | N |
 | Lorenzo Cannella | [Giancannella](https://github.com/Giancannella) | Fondazione Ugo Bordoni (FUB) | N |
 | Ziyu Lin | [LinZiyuu](https://github.com/LinZiyuu) | Nanyang Technological University (NTU) | N |
+| Neela Reddy Bollu | [neelareddybollu](https://github.com/neelareddybollu) | FAU Erlangen-Nürnberg | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
