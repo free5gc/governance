@@ -85,6 +85,7 @@ create a pull request.
 | Ziyu Lin | [LinZiyuu](https://github.com/LinZiyuu) | Nanyang Technological University (NTU) | N |
 | Neela Reddy Bollu | [neelareddybollu](https://github.com/neelareddybollu) | FAU Erlangen-Nürnberg | N |
 | YiMing Zhang | [arccat-114](https://github.com/arccat-114) | Beijing Information Science and Technology University (BISTU) | N |
+| Manuel Reiländer            | [mreilaender](https://github.com/mreilaender)         | Compax                                                | Y         |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
