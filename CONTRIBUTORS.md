@@ -86,6 +86,7 @@ create a pull request.
 | Neela Reddy Bollu | [neelareddybollu](https://github.com/neelareddybollu) | FAU Erlangen-Nürnberg | N |
 | YiMing Zhang | [arccat-114](https://github.com/arccat-114) | Beijing Information Science and Technology University (BISTU) | N |
 | Ali Iqbal | [ALIIQBAL786](https://github.com/ALIIQBAL786) | xFlow Research | N |
+| CHIEN, CHIH-HUNG | [cchung100m](https://github.com/cchung100m) | TXOne Networks | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
