@@ -85,6 +85,9 @@ create a pull request.
 | Ziyu Lin | [LinZiyuu](https://github.com/LinZiyuu) | Nanyang Technological University (NTU) | N |
 | Neela Reddy Bollu | [neelareddybollu](https://github.com/neelareddybollu) | FAU Erlangen-Nürnberg | N |
 | YiMing Zhang | [arccat-114](https://github.com/arccat-114) | Beijing Information Science and Technology University (BISTU) | N |
+| Ali Iqbal | [ALIIQBAL786](https://github.com/ALIIQBAL786) | xFlow Research | N |
+| CHIEN, CHIH-HUNG | [cchung100m](https://github.com/cchung100m) | TXOne Networks | N |
+| Yuanhao Li | [hackeryounow](https://github.com/hackeryounow) | Northwestern Polytechnical University(NWPU) | N |
 | Manuel Reiländer            | [mreilaender](https://github.com/mreilaender)         | Compax                                                | Y         |
 
 > NOTE:
