@@ -88,7 +88,7 @@ create a pull request.
 | Ali Iqbal | [ALIIQBAL786](https://github.com/ALIIQBAL786) | xFlow Research | N |
 | CHIEN, CHIH-HUNG | [cchung100m](https://github.com/cchung100m) | TXOne Networks | N |
 | Yuanhao Li | [hackeryounow](https://github.com/hackeryounow) | Northwestern Polytechnical University(NWPU) | N |
-| Manuel Reiländer            | [mreilaender](https://github.com/mreilaender)         | Compax                                                | Y         |
+| Manuel Reiländer            | [mreilaender](https://github.com/mreilaender)         | Compax                                                | N         |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
