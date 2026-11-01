@@ -89,6 +89,7 @@ create a pull request.
 | CHIEN, CHIH-HUNG | [cchung100m](https://github.com/cchung100m) | TXOne Networks | N |
 | Yuanhao Li | [hackeryounow](https://github.com/hackeryounow) | Northwestern Polytechnical University(NWPU) | N |
 | Manuel Reiländer            | [mreilaender](https://github.com/mreilaender)         | Compax                                                | N         |
+| Aymen Benlamari | [aymencdm](https://github.com/aymencdm) | university of batna 2 algeria | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
