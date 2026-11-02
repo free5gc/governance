@@ -90,6 +90,7 @@ create a pull request.
 | Yuanhao Li | [hackeryounow](https://github.com/hackeryounow) | Northwestern Polytechnical University(NWPU) | N |
 | Manuel Reiländer            | [mreilaender](https://github.com/mreilaender)         | Compax                                                | N         |
 | Aymen Benlamari | [aymencdm](https://github.com/aymencdm) | university of batna 2 algeria | N |
+| Luis Poclin-Romero | [lpoclin](https://github.com/lpoclin) | National University of San Marcos (UNMSM) | N |
 
 > NOTE:
 > The list of contributors and committers is not exhaustive.
