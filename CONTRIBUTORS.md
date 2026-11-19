@@ -91,6 +91,7 @@ create a pull request.
 | Manuel Reiländer            | [mreilaender](https://github.com/mreilaender)         | Compax                                                | N         |
 | Aymen Benlamari | [aymencdm](https://github.com/aymencdm) | university of batna 2 algeria | N |
 | Luis Poclin-Romero | [lpoclin](https://github.com/lpoclin) | National University of San Marcos (UNMSM) | N |
+| Edvin Lindqvist | [midwell](https://github.com/midwell) | Forsway | N |
 | Aditi Adurkar | [proxiima-centaurii](https://github.com/proxiima-centaurii) | Independent | N |
 
 > NOTE:
